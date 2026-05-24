@@ -189,7 +189,6 @@ liquid/lfm-2.5-1.2b-instruct:free
 If You Like This Project:
 
 ⭐ Star The Repo  
-🍴  Fork It  
 🧠 Contribute Ideas  
 
 ---
