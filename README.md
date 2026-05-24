@@ -1,10 +1,19 @@
+<div align="center">
+
 # 🛰️ NULLTRACE
+
 ### Ai-Powered Incident Intelligence War Room
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ![Ai](https://img.shields.io/badge/Ai-Enabled-purple?style=flat-square)
 ![License](https://img.shields.io/badge/License-Mit-lightgrey?style=flat-square)
+
+---
+
+### ⚡ Turn Real Telemetry Into Actionable Incident Intelligence With Ai
+
+</div>
 
 ---
 
@@ -88,9 +97,9 @@ OPENROUTER_API_KEY=your_api_key
 ```
 
 ### 🔐 Security Model
-- Api Key Is **Server-Side Only**
-- Never Exposed To Browser
-- Safe By Design
+- Api Key Is **Server-Side Only**  
+- Never Exposed To Browser  
+- Safe By Design  
 
 ### 🧠 Default Model
 
@@ -152,17 +161,6 @@ liquid/lfm-2.5-1.2b-instruct:free
 
 ---
 
-## 🧭 Philosophy
-
-> “Incidents Should Be Investigated — Not Guessed.”
-
-NULLTRACE Ensures:
-- Every Insight Is **Traceable**
-- Every Recommendation Is **Evidence-Backed**
-- Every Action Is **Grounded In Real Data**
-
----
-
 ## 📌 Future Enhancements
 
 - 🧬 Automated Remediation  
@@ -172,17 +170,30 @@ NULLTRACE Ensures:
 
 ---
 
+<div align="center">
+
 ## 🧑‍💻 Author
 
-Built For Engineers Who Debug Reality — Not Dashboards.
+**Arjun Bohara**
+
+---
+
+## 🤝 Contributors
+
+**E3ROR404**
 
 ---
 
 ## ⭐ Support
 
 If You Like This Project:
-- ⭐ Star The Repo  
-- 🍴 Fork It  
-- 🧠 Contribute Ideas  
+
+⭐ Star The Repo  
+🍴 Fork It  
+🧠 Contribute Ideas  
 
 ---
+
+### ⚡ NULLTRACE — Evidence Over Guesswork
+
+</div>
