@@ -180,7 +180,7 @@ liquid/lfm-2.5-1.2b-instruct:free
 
 ## 🤝 Contributors
 
-**E3ROR404**
+**Krishna Sharma**
 
 ---
 
