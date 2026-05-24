@@ -1,0 +1,12 @@
+NULLTRACE operational at http://127.0.0.1:8765
+OpenRouter configured=True model=deepseek/deepseek-v4-flash:free
+[23/May/2026 22:39:01] "GET /api/telemetry/stream HTTP/1.1" 200 -
+[23/May/2026 22:39:19] "GET /api/integrations HTTP/1.1" 200 -
+[23/May/2026 22:39:19] "GET / HTTP/1.1" 200 -
+[23/May/2026 22:40:57] "GET / HTTP/1.1" 200 -
+[23/May/2026 22:40:58] "GET /api/openrouter/status HTTP/1.1" 200 -
+[23/May/2026 22:40:58] "GET /api/telemetry/stream HTTP/1.1" 200 -
+[23/May/2026 22:40:59] "GET /favicon.ico HTTP/1.1" 404 -
+[23/May/2026 22:41:25] "POST /api/connectors/connect HTTP/1.1" 200 -
+[23/May/2026 22:41:31] "POST /api/connectors/connect HTTP/1.1" 200 -
+[23/May/2026 22:43:20] "POST /api/connectors/sync HTTP/1.1" 200 -
